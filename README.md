@@ -47,7 +47,7 @@ Para levantar el servidor.
 
 ## Finalmente
 
-###### TE SUGERIMOS IR Y SEGUIR LOS PASOS DEL ARCHIVO "README.MD" DEL REPOSITORIO QUE PERTENECE AL FRONT-END DE ESTE PROYECTO: <a href="https://github.com/darioberatti/Co-Work-P5-FRONTEND">Co-Work-P5-FRONTEND</a>
+###### TE SUGERIMOS IR Y SEGUIR LOS PASOS DEL ARCHIVO "README.MD" DEL REPOSITORIO QUE PERTENECE AL FRONT-END DE ESTE PROYECTO: <a href="https://github.com/agtorroja/Co-Work-P5-FRONTEND">Co-Work-P5-FRONTEND</a>
 
 ## Autores
 
